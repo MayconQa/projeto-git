@@ -5,6 +5,7 @@ def helper_function():
     print("Primeira Modificação")
     print("Segunda Modificação")
     print("Mudança feita na branch nova")
+    print("para verificar o comando git status")
 
 
 helper_function()
