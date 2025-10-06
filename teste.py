@@ -1,4 +1,9 @@
-print("teste")
-print("teste_2")
-print("Primeira Modificação")
-print("Segunda Modificação")
+
+def helper_function():
+    print("teste")
+    print("teste_2")
+    print("Primeira Modificação")
+    print("Segunda Modificação")
+
+
+helper_function()
