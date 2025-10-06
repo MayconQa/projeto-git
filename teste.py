@@ -6,6 +6,7 @@ def helper_function():
     print("Segunda Modificação")
     print("Mudança feita na branch nova")
     print("para verificar o comando git status")
+    print("para verificar nava branch")
     
 
 
